@@ -1,5 +1,5 @@
 # PersonalAssistant-Chatbot
-A Health Personal Assistant Chabot.
+A Health Personal Assistant Chabot that tracks the User Calorie intake and suggests appropriate meals for the User using Prolog.
 
 
 ### Chatbot Main Functionalities
